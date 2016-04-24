@@ -1,0 +1,13 @@
+PODS:
+  - CVCalendar (1.2.7)
+  - GoogleAnalytics (3.13.0)
+
+DEPENDENCIES:
+  - CVCalendar (~> 1.2)
+  - GoogleAnalytics (~> 3.13)
+
+SPEC CHECKSUMS:
+  CVCalendar: 1ae6ee62dd7fd4c6a6703a43c641e11dfd32276e
+  GoogleAnalytics: fcf1f1cad57ae1a9a53520018f0f680ceeeb8b49
+
+COCOAPODS: 0.39.0
